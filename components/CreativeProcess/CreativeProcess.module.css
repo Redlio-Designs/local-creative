@@ -1,0 +1,25 @@
+.process{
+    text-align: center;
+}
+.process .processText h2{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+color: #794FFD;
+margin-bottom: 14px;
+    text-align: center;
+}
+.process .processText p{
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #435269;
+    margin-bottom: 50px;
+}
+.process .processText {
+border-bottom: 1.5px dashed #DAD7D6;
+   margin-bottom: 58px;
+   padding:  0 0 58px;
+}

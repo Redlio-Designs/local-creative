@@ -1,0 +1,44 @@
+.heroSection{
+    background:url('/images/hero-section-bg.png'), linear-gradient(268.31deg, #794FFD -0.71%, #5656FE 32.62%, #3A9CFF 65.95%, #02DEFD 99.28%);
+    /* background-image: ; */
+    height: 100%;
+    padding-top: 90px;
+    width: 100%;
+    margin-bottom: 180px;
+}
+.heroSection .customContainer{
+    max-width: 997px;
+    width: 997px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.heroSection .customContainer .content{
+    padding-top: 60px;
+}
+.heroSection .customContainer .content h3{
+    font-family: 'Gilroy-Bold';
+    margin-bottom: 28px;
+    font-size: 56px;
+}
+.heroSection .customContainer .content p{
+    font-family: 'Inter';
+    font-weight: 500;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 34.1px;
+}
+.heroSection .customContainer .videoSection{
+  position: relative;
+  top: 60px;
+}
+.heroSection .customContainer .videoSection .playIcon{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+  right: 0;
+  margin: auto;
+  filter: drop-shadow(0px 7px 18px rgba(255, 112, 50, 0.2));
+}

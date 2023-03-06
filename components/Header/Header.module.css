@@ -1,0 +1,24 @@
+.header{
+    position: absolute;
+    width: 100%;
+    padding: 35px 0 50px;
+}
+.header .mainHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.header .signIn a{
+    margin-left: 28px;
+    color: #fff;
+    font-family: 'Inter';
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+}
+.header .signUp{
+    background: #0D0C0D;
+border-radius: 8px;
+padding: 10px 15px;
+}
